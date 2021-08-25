@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.login {
+  padding: 20rem;
+}
+.marg {
+  margin: 1rem 20% 0 20%;
+}
+.custbut {
+  margin-top: 1.5rem;
+}
+
+.customcolor {
+  color: black;
+}
